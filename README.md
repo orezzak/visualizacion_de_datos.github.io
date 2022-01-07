@@ -1,7 +1,7 @@
 
 ## Analisis de los jugadores ##
 # 1.Histograma
-Histograma por de puntuacion global
+Histograma por de puntuacion global [Python]
 
 # 2.Grafico de cajas
 Analisis de las principales cualidades segmentado por pie dominante
