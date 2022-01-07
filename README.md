@@ -1,8 +1,23 @@
-# 1. Bar chart
 
-* **Plataforma de visualizacion:** [Infogram](https://infogram.com/madrid-traffic-accidents-2021-1h8n6m3nzyr5j4x?live)
-* **Técnica de visualización:** [Grafico de barras](https://datavizcatalogue.com/methods/bar_chart.html)
-* **Tipo de datos:** [Categoricos & Numericos-Estructura Tabular/ Minimo dos variables a comparar](https://www.data-to-viz.com/)
-* **Tipologia de los datos:** Estructurados , csv
-* **Origen de los datos:** [datos.madrid](https://datos.madrid.es/sites/v/index.jsp?vgnextoid=7c2843010d9c3610VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD)
-* **Tematica:** Accidentes de trafico en la ciudad de Madrid en el año 2021
+## Analis de los jugadores ##
+# 1.Histograma
+Histograma por de puntuacion global
+
+# 2.Grafico de cajas
+Analisis de las principales cualidades segmentado por pie dominante
+
+# 3.Diagrama de dispersion
+scatter plot driblling vs ball control 
+
+# 4.Diagrama de densidad
+Altura de los jugadores por posicion
+
+# 5.Tela de araña
+Segmentacion por posicion o pais o jugador (pie derecho vs pie izquierdo)
+
+## Analis de las ligas europeas ##
+# 6.Mapa de conexiones
+Nacionalidad y liga actual.
+
+# 7.Diagrama de burbujas
+puntuacion media vs valor medio
