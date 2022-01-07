@@ -4,7 +4,7 @@
 Histograma por de puntuacion global [Python]
 
 # 2.Grafico de cajas
-Analisis de las principales cualidades segmentado por pie dominante [Python]
+Analisis de las principales cualidades segmentado por pie dominante [Python] o [Flourish] si deja interactuar con aplicando filtros
 
 # 3.Diagrama de dispersion
 scatter plot driblling vs ball control [Python]
