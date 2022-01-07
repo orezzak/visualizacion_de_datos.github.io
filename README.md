@@ -1,5 +1,5 @@
 
-## Analis de los jugadores ##
+## Analisis de los jugadores ##
 # 1.Histograma
 Histograma por de puntuacion global
 
@@ -15,7 +15,7 @@ Altura de los jugadores por posicion
 # 5.Tela de araña
 Segmentacion por posicion o pais o jugador (pie derecho vs pie izquierdo)
 
-## Analis de las ligas europeas ##
+## Analisis de las ligas europeas ##
 # 6.Mapa de conexiones
 Nacionalidad y liga actual.
 
