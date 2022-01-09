@@ -4,7 +4,13 @@
 
 A traves de las las visulizaciones expuestas a lo largo de este informe trataremos despejar y aclarar algunas ideal preconcebidas sobre el munndo del futbol. A traves de los datos trataremos de extraer conocimineto sobre el rendimiento de los jugadores como de los equipos.
 
+* **Tipologia de los datos:** Estructurados , csv
+* **Origen de los datos:** [zenodo](https://zenodo.org/record/5758756#.YdsWhmDMKUl)
+* **Tematica:** Cualidades y atributos de los jugadores de futbol en el ano 2019.
+
 # 1.Histograma
+
+* **Codigo fuente:** [Jupyter script](https://zenodo.org/record/5758756#.YdsWhmDMKUl)
 
 Antes de empezar veamos que distribucion sigue la variable de puntuacion global en todo el conjunto de datos.
 
@@ -14,6 +20,8 @@ Observamos que parece que sigue una distribucion normal (campana de gauss). Tal 
 
 # 2.Grafico de cajas
 
+* **Codigo fuente:** [Jupyter script](https://zenodo.org/record/5758756#.YdsWhmDMKUl)
+
 Existe cierta tendencia a pensar que los jugadores zurdos son mejores que los diestros. Vamos a hacer uso de un diagrama de bigote para analizar esta afirmacion.
 
 ![image](https://user-images.githubusercontent.com/93130320/148691661-9d77caf0-50ee-4f58-8652-0301257972ab.png)
@@ -21,6 +29,8 @@ Existe cierta tendencia a pensar que los jugadores zurdos son mejores que los di
 Tay como se puede apreciar la media de los atributos de los jugadores zurdos supera a la de los diestros. Llama especialmenete la atencion la elevada diferencia en el lanzamiento de Faltas.
 
 # 3.Diagrama de dispersion
+
+* **Codigo fuente:** [Jupyter script](https://zenodo.org/record/5758756#.YdsWhmDMKUl)
 
 Otra afirmacion bastante extendida es que para tener un mejor regate hay que tener un buen control del balon y no tanta velocidad o aceleracion.
 Vamos a analizar la correlacion entre los atributos "Dribbling" y "Ball_Control".
@@ -31,6 +41,8 @@ En este caso podemos ver que existe una correlacion clara, cuanto mas control de
 
 # 4.Diagrama de densidad
 
+* **Codigo fuente:** [Jupyter script](https://zenodo.org/record/5758756#.YdsWhmDMKUl)
+
 Como regla general simpre se ha pensado que los jugadores mas altos deben jugar de defensas. Ademas desde hace algunos anos tambien se prefieren a porteros altos.
 
 ![image](https://user-images.githubusercontent.com/93130320/148691922-b4785b72-a56c-4378-b744-87385ae6583a.png)
@@ -38,6 +50,8 @@ Como regla general simpre se ha pensado que los jugadores mas altos deben jugar 
 ...pendiente de analizar
 
 # 5.Grafico de araña
+
+* **Codigo fuente:** [Jupyter script](https://zenodo.org/record/5758756#.YdsWhmDMKUl)
 
 Los jugadores brasilenos son los que mas cotizan en el mercado. Esta tendencia a pensar que los jugadores brasilenos son mejores esta muy exendendida.
 
@@ -54,11 +68,10 @@ Tal y como se puede apreciar , ambas telas de anara dibujan una figura parecida.
 
 En lo que respecta a los equipos , vamos a someter a analisis a los principales clubes europeos para analizar su capacidad de ataque , defensa y balance (Ataque--> Defensa)
 
-https://public.flourish.studio/visualisation/8342962/
-
-
+* **Plataforma de visualizacion:** [Flourish](https://public.flourish.studio/visualisation/8342962/)
+* 
 # 7.Mapa de conexiones
 
 Una afirmacion tambien comumente extendida es la diferencia de estrategia deportiva seguida por real madrid y Barcelona. Se suele afirmar que mientras el Real madrid ficha a jugadores europeas y Fc Barcelona prefiere talenos de latinoamarica.  trves de sigueinte grafico podemos ver si dicha afirmacion es cierta o no.
 
-https://public.flourish.studio/visualisation/8343379/
+* **Plataforma de visualizacion:** [Flourish](https://public.flourish.studio/visualisation/8343379/)
