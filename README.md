@@ -10,7 +10,7 @@ A través de las visualizaciones expuestas a lo largo de este informe trataremos
 
 # 1.Histograma
 
-* **Codigo fuente:** [Jupyter script](https://zenodo.org/record/5758756#.YdsWhmDMKUl)
+* **Codigo fuente:** [Jupyter script](https://github.com/orezzak/visualizacion_de_datos.github.io/blob/main/Data_visualization.ipynb)
 
 Antes de empezar veamos que distribución sigue la variable de puntuación global en todo el conjunto de datos.
 
@@ -20,7 +20,7 @@ Observamos que parece que sigue una distribución normal (campana de gauss). Tal
 
 # 2.Grafico de cajas
 
-* **Codigo fuente:** [Jupyter script](https://zenodo.org/record/5758756#.YdsWhmDMKUl)
+* **Codigo fuente:** [Jupyter script](https://github.com/orezzak/visualizacion_de_datos.github.io/blob/main/Data_visualization.ipynb)
 
 Existe cierta tendencia a pensar que los jugadores zurdos son mejores que los diestros. Vamos a hacer uso de un diagrama de bigote para analizar esta afirmación.
 
@@ -30,7 +30,7 @@ Tal como se puede apreciar la media de los atributos de los jugadores zurdos sup
 
 # 3.Diagrama de dispersion
 
-* **Codigo fuente:** [Jupyter script](https://zenodo.org/record/5758756#.YdsWhmDMKUl)
+* **Codigo fuente:** [Jupyter script](https://github.com/orezzak/visualizacion_de_datos.github.io/blob/main/Data_visualization.ipynb)
 
 Otra afirmación bastante extendida es que para tener un mejor regate hay que tener un buen control del balón y en detrimento de otras cualidades físicas como la aceleración o la velocidad.
 Vamos a analizar la correlación entre los atributos "Dribbling" y "Ball_Control".
@@ -41,7 +41,7 @@ En este caso podemos ver que existe una correlación clara, cuanto más control 
 
 # 4.Diagrama de densidad[ridgeline]
 
-* **Codigo fuente:** [Jupyter script](https://zenodo.org/record/5758756#.YdsWhmDMKUl)
+* **Codigo fuente:** [Jupyter script](https://github.com/orezzak/visualizacion_de_datos.github.io/blob/main/Data_visualization.ipynb)
 
 Como regla general siempre se ha pensado que los jugadores más altos deben jugar de defensas. Por otro lado, también ha cambiado la tendencia a un tipo de portero más alto.
 
@@ -51,7 +51,7 @@ Observamos que para la posición de defensa central (CB - Center Back) sobre 190
 
 # 5.Grafico de araña
 
-* **Codigo fuente:** [Jupyter script](https://zenodo.org/record/5758756#.YdsWhmDMKUl)
+* **Codigo fuente:** [Jupyter script](https://github.com/orezzak/visualizacion_de_datos.github.io/blob/main/Data_visualization.ipynb)
 
 Existe una tendencia a pensar que los jugadores brasileños son mejores por el mero hecho de su procedencia. 
 Vamos a comparar los jugadores de origen brasileño con los de origen español.
