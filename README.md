@@ -38,11 +38,27 @@ Como regla general simpre se ha pensado que los jugadores mas altos deben jugar 
 ...pendiente de analizar
 
 # 5.Grafico de araña
-Segmentacion por posicion o pais o jugador (pie derecho vs pie izquierdo) [??]
+
+Los jugadores brasilenos son los que mas cotizan en el mercado. Esta tendencia a pensar que los jugadores brasilenos son mejores esta muy exendendida.
+
+vamos a comparar los jugadores de origen brasileno con los de origen espanol.
+
+![image](https://user-images.githubusercontent.com/93130320/148692154-d036aa21-3dde-4d53-964f-52d02de62e88.png)
+
+![image](https://user-images.githubusercontent.com/93130320/148692160-252c6b3e-0293-46eb-b79c-398973d728b1.png)
+
+Tal y como se puede apreciar , ambas telas de anara dibujan una figura parecida. de modo que no se puede afirma que los jugadores de origen brasileno son mejores que el equipo nacinal. Destacar que dicho analisis se basa en el origen del jugador y no en la seleccion.
+
 
 # 6.Diagrama de burbujas
-puntuacion media vs valor medio [Flourish]
+
+En lo que respecta a los equipos , vamos a someter a analisis a los principales clubes europeos para analizar su capacidad de ataque , defensa y balance (Ataque--> Defensa)
+
+https://public.flourish.studio/visualisation/8342962/
+
 
 # 7.Mapa de conexiones
-Nacionalidad y liga actual [Flourish]
 
+Una afirmacion tambien comumente extendida es la diferencia de estrategia deportiva seguida por real madrid y Barcelona. Se suele afirmar que mientras el Real madrid ficha a jugadores europeas y Fc Barcelona prefiere talenos de latinoamarica.  trves de sigueinte grafico podemos ver si dicha afirmacion es cierta o no.
+
+https://public.flourish.studio/visualisation/8343379/
