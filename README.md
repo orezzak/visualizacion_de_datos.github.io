@@ -39,7 +39,7 @@ Vamos a analizar la correlación entre los atributos "Dribbling" y "Ball_Control
 
 En este caso podemos ver que existe una correlación clara, cuanto más control de balón se tenga mejor será la habilidad de regate.
 
-# 4.Diagrama de densidad
+# 4.Diagrama de densidad[ridgeline]
 
 * **Codigo fuente:** [Jupyter script](https://zenodo.org/record/5758756#.YdsWhmDMKUl)
 
