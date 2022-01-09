@@ -47,7 +47,7 @@ Como regla general siempre se ha pensado que los jugadores más altos deben juga
 
 ![image](https://user-images.githubusercontent.com/93130320/148691922-b4785b72-a56c-4378-b744-87385ae6583a.png)
 
-...pendiente de analizar
+Observamos que para la posición de defensa central (CB - Center Back) sobre 190cm se concentra la mayor densidad de jugadores , de forma análoga sucede con los porteros (GK) pero en este caso con una densidad ligeramente superior
 
 # 5.Grafico de araña
 
