@@ -63,13 +63,12 @@ vamos a comparar los jugadores de origen brasileno con los de origen espanol.
 
 Tal y como se puede apreciar , ambas telas de anara dibujan una figura parecida. de modo que no se puede afirma que los jugadores de origen brasileno son mejores que el equipo nacinal. Destacar que dicho analisis se basa en el origen del jugador y no en la seleccion.
 
-
 # 6.Diagrama de burbujas
 
 En lo que respecta a los equipos , vamos a someter a analisis a los principales clubes europeos para analizar su capacidad de ataque , defensa y balance (Ataque--> Defensa)
 
 * **Plataforma de visualizacion:** [Flourish](https://public.flourish.studio/visualisation/8342962/)
-* 
+
 # 7.Mapa de conexiones
 
 Una afirmacion tambien comumente extendida es la diferencia de estrategia deportiva seguida por real madrid y Barcelona. Se suele afirmar que mientras el Real madrid ficha a jugadores europeas y Fc Barcelona prefiere talenos de latinoamarica.  trves de sigueinte grafico podemos ver si dicha afirmacion es cierta o no.
