@@ -1,6 +1,6 @@
 
 
-# 0.Introduccion
+# Analisis Clubes y Jugadores
 
 A traves de las las visulizaciones expuestas a lo largo de este informe trataremos despejar y aclarar algunas ideal preconcebidas sobre el munndo del futbol. A traves de los datos trataremos de extraer conocimineto sobre el rendimiento de los jugadores como de los equipos.
 
